@@ -1,0 +1,19 @@
+Team Members:
+Voohasree Chitta
+GokulaPriya Subramani
+Bharath Meduru
+
+Issue 1: Static Captcha issue: used random generator to correct the captcha in captcha.py and init.py uncer util.captcha
+Issue 2: Displays notes of all users when searched: changed the sql query to give proper results
+Issue 3: Deletion of notes should only be given access to current user notes but not other user notes.
+Issue 4: User and password validation in register.js while registering new user.
+Issue 5: User and password validation in admin.js while adding user as a admin
+Issue 6: Admin portal should only be accessible to admin users but not for other users
+Issue 7: Reset password validation is done as admin
+Issue 8: After logout still login if clicked on back button (Improper logout sessions)
+Issue 9: No DB for retireemnt data storage
+Issue 10: Buttons of search and settings are not working
+Issue 11: Allowing all file types in document upload
+Issue 12: No time limit on session expiry
+Issue 13: Password typed should not be visible
+Issue 14: In hub page one of the images of "Elon Musk challenges billionaires, pols funding groups attacking his Twitter buy - Fox Business" is not displayed properly
